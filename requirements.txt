@@ -1,0 +1,14 @@
+authlib
+flask
+flask_pymongo
+flask-cors
+dynaconf
+dnspython
+requests
+protobuf
+flask_login
+googlemaps
+flask_simple_geoip
+firebase_admin
+pyrebase
+flasgger
